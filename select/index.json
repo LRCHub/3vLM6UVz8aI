@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "HEART's♡KISS -New Arrange Ver.-",
+  "base_artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）",
+  "createdAt": "2026-02-15T20:17:08.836292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HEART's♡KISS -New Arrange Ver.-",
+      "artist": "MEMちょ",
+      "has_synced": true,
+      "path": "select/01_HEART's♡KISS_-New_Arrange_Ver.-_MEMちょ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HEART's♡KISS - New Arrange Ver.",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/02_HEART's♡KISS_-_New_Arrange_Ver._B小町.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HEART's♡KISS -New Arrange Ver.- (instrumental)",
+      "artist": "MEMちょ",
+      "has_synced": true,
+      "path": "select/03_HEART's♡KISS_-New_Arrange_Ver.-_(instrumental)_MEMちょ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HEART's♡KISS -New Arrange Ver.-",
+      "artist": "B小町 ルビー",
+      "has_synced": true,
+      "path": "select/04_HEART's♡KISS_-New_Arrange_Ver.-_B小町_ルビー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HEART's♡KISS -New Arrange Ver.-",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/05_HEART's♡KISS_-New_Arrange_Ver.-_B小町.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HEART's♡KISS -New Arrange Ver.-",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/06_HEART's♡KISS_-New_Arrange_Ver.-_VA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HEART's♡KISS -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV.伊駒ゆりえ)、有馬かな(CV.潘めぐみ)、MEMちょ(CV.大久保瑠美)",
+      "has_synced": true,
+      "path": "select/07_HEART's♡KISS_-New_Arrange_Ver.-_B小町_ルビー(CV.伊駒ゆりえ)、有馬かな(CV.潘めぐみ)、MEMちょ(CV.大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HEART's♡KISS -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV：伊駒ゆりえ)、有馬かな(CV：潘めぐみ)、MEMちょ(CV：大久保瑠美)",
+      "has_synced": true,
+      "path": "select/08_HEART's♡KISS_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HEART's♡KISS -New Arrange Ver.-",
+      "artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：藩めぐみ）、MEMちょ（CV：大久保瑠美）",
+      "has_synced": true,
+      "path": "select/09_HEART's♡KISS_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_藩めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HEART's KISS -New Arrange Ver.-\u0000",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)\u0000",
+      "has_synced": true,
+      "path": "select/10_HEART's_KISS_-New_Arrange_Ver.-\u0000_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美)\u0000.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEART's♡KISS -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": false,
+      "path": "select/pl_01_HEART's♡KISS_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).txt"
+    }
+  ]
+}
